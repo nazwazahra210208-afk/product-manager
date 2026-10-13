@@ -2,7 +2,7 @@
 // config/db.php
 
 $host = 'localhost';
-$dbname = 'store_db';
+$dbname = 'inventory_db';
 $username = 'root';
 $password = '';
 
